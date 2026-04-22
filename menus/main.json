@@ -1,0 +1,1 @@
+{"menu_id": "essential_main_menu","parent_menu_id": "blt_options","title": "Essential Trainer","description": "Essential Payday 2 Trainer - Toggle combat and interaction features","items": [{"type": "button","id": "essential_open_features","title": "Combat & Interaction Features","description": "Access essential trainer features","callback": "essential_open_features"}]}
